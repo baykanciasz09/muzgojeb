@@ -5,7 +5,18 @@
   "version": "1.6.10",
   "dependencies": {
     "discord.js": "^12.2.0",
+    "ffmpeg": "0.0.4",
     "fstorm": "latest",
-    "jimp": "latest"
-  }
+    "hh-mm-ss": "^1.2.0",
+    "jimp": "latest",
+    "libsodium-wrappers": "latest",
+    "node-cron": "^3.0.0",
+    "opusscript": "latest",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "valid-url": "^1.0.9",
+    "ytdl-core": "^4.8.2",
+    "ytsr": "^3.5.0"
+  },
+  "is-music-bot": true
 }
